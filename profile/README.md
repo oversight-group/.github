@@ -6,15 +6,6 @@ Oversight is an Israeli software company, founded in 2016. We build websites, ap
 
 300+ projects across 33 industries. Offices in Petah Tikva, Israel (BSR City). Meetings by appointment.
 
-## Open source from Oversight
-
-Small, focused tools, published as open source. We never publish client code.
-
-| Repository | What it is |
-|---|---|
-| [n8n-nodes-oversend](https://github.com/oversight-group/n8n-nodes-oversend) | n8n community node for [OverSend](https://oversight.co.il/md2zm), our WhatsApp web interface and REST API |
-| [n8n-nodes-smartsend](https://github.com/oversight-group/n8n-nodes-smartsend) | n8n community node for [SmartSend](https://oversight.co.il/ek7vy), our venture for WhatsApp sales, service and marketing |
-
 ## Work with us
 
 - Website: [oversight.co.il](https://oversight.co.il/sw428)
