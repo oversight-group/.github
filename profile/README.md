@@ -1,10 +1,10 @@
 # Oversight
 
-**Vision becomes reality.**
+Vision becomes reality. Oversight is an Israeli software development company, active since 2016: websites and landing pages, online stores on Shopify and WooCommerce, iOS and Android apps, web systems and management systems, AI agents, integrations, CRM and ERP, and product discovery and UI/UX design.
 
-Oversight is an Israeli software company, founded in 2016. We build websites, apps, online stores, web and management systems, integrations and AI agents, and we run ventures of our own. The team that scopes a project builds it and keeps it running.
+300+ projects across more than 30 industries. Our team scopes, designs, builds, and keeps supporting and maintaining after launch. Our offices are in Petah Tikva (BSR City).
 
-300+ projects across 33 industries. Offices in Petah Tikva, Israel (BSR City). Meetings by appointment.
+Have a digital dream? We will help you make it happen.
 
 ## Work with us
 
@@ -20,11 +20,11 @@ Oversight is an Israeli software company, founded in 2016. We build websites, ap
 
 ## אוברסייט
 
-**החזון הופך למציאות.**
+החזון הופך למציאות. אוברסייט היא חברת פיתוח ותוכנה ישראלית שפועלת משנת 2016: אתרים ודפי נחיתה, חנויות אונליין ב-Shopify וב-WooCommerce, אפליקציות ל-iOS ול-Android, מערכות Web ומערכות ניהול, סוכני AI, אינטגרציות, CRM ו-ERP, ואפיון ועיצוב UI/UX.
 
-אוברסייט היא חברת פיתוח ותוכנה ישראלית שפועלת משנת 2016: אתרים, אפליקציות, חנויות אונליין, מערכות Web ומערכות ניהול, אינטגרציות וסוכני AI, לצד מיזמים שאנחנו בונים ומפעילים בעצמנו. אותו צוות מאפיין, בונה וממשיך ללוות.
+300+ פרויקטים ביותר מ-30 ענפים. הצוות שלנו מאפיין, מעצב, מתכנת וממשיך ללוות ולתחזק גם אחרי ההשקה. המשרדים בפתח תקווה (BSR City).
 
-300+ פרויקטים ב-33 ענפים. המשרדים שלנו בפתח תקווה (תוצרת הארץ 3, BSR City, בניין T, קומה 11), ופגישות בתיאום מראש.
+יש לכם חלום דיגיטלי? אנחנו נעזור לכם להגשים אותו.
 
 בואו נדבר: 03-303-4558 · service@oversight.co.il
 
